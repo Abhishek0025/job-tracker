@@ -1,0 +1,14 @@
+---
+alwaysApply: true
+---
+Use Java 21 and Spring Boot 3 for backend.
+Use React with Vite for frontend.
+Use PostgreSQL as the database.
+Follow controller-service-repository layered architecture.
+Use DTOs for API requests and responses.
+Use JWT for authentication.
+Use environment variables for secrets.
+Do not hardcode database credentials or JWT secrets.
+Write beginner-friendly code with clear comments.
+Explain design decisions before major changes.
+Prefer simple, interview-ready implementation over overengineering.

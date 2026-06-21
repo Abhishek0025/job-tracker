@@ -1,0 +1,14 @@
+backend/target/
+frontend/node_modules/
+frontend/dist/
+
+.env
+*.env.local
+**/application-local-secrets.yml
+
+.DS_Store
+*.log
+
+.idea/
+*.iml
+.vscode/
